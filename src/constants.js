@@ -237,7 +237,7 @@ export const SkillsInfo = [
       image: ecom,
       tags: ["React JS", "Node.js", "HTML", "TAILWINDCSS", "JavaScript"],
       github: "https://github.com/ektateli/react-ecomerse-website",
-      webapp: "hhttps://react-ecomerse-website.vercel.app/",
+      webapp: "https://react-ecomerse-website.vercel.app/",
     },
 
 
