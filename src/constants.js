@@ -16,6 +16,7 @@ import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import nodejsLogo from './assets/tech_logo/nodejs.png';
 import pythonLogo from './assets/tech_logo/python.png';
+import expressjsLogo from './assets/tech_logo/express.png';
 
 
 // import sassLogo from './assets/tech_logo/sass.png';
