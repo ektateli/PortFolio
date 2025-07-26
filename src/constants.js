@@ -241,7 +241,7 @@ export const SkillsInfo = [
       webapp: "https://react-ecomerse-website.vercel.app/",
     },
      {
-      id: 1,
+      id: 2,
       title: "React AI-Tool",
       description:
         "A powerful and user-friendly react.js project designed  to , making it a must-visit tool for developers and recruiters. Same Like Chatgpt we can give promt and get response from it.In that project Therare option for deletd,if any one send prompt ,then it responses to the user,and save in history,same type prompt save in that privious prompt.Added Feature of dark mode. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
