@@ -97,6 +97,7 @@ export const SkillsInfo = [
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
       { name: 'Node JS', logo: nodejsLogo },
+      { name: 'Express JS', logo: expressjsLogo }
       // { name: 'Firebase', logo: firebaseLogo },
       // { name: 'PostgreSQL', logo: postgreLogo },
       // { name: 'Springboot', logo: springbootLogo },
@@ -223,7 +224,7 @@ export const SkillsInfo = [
       id: 0,
       title: "Blogging Web Application",
       description:
-        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.•	Designed Platform Where users can add there options , Articles and news.Integrated login/logout, property listing, and dashboard features.",
+        "A powerful and user-friendly React.js application designed to , making it a must-visit tool for developers and recruiters.	Designed Platform Where users can add there options , Articles and news.Integrated login/logout, property listing, and dashboard features.",
       image: bg,
       tags: ["HTML", "TAILWINDCSS", "JavaScript", "React JS", "NODE.JS","EXPRESS JS", "MONGODB"],
       github: "https://github.com/ektateli/G-Blog",
@@ -239,6 +240,17 @@ export const SkillsInfo = [
       github: "https://github.com/ektateli/react-ecomerse-website",
       webapp: "https://react-ecomerse-website.vercel.app/",
     },
+     {
+      id: 1,
+      title: "React AI-Tool",
+      description:
+        "A powerful and user-friendly react.js project designed  to , making it a must-visit tool for developers and recruiters. Same Like Chatgpt we can give promt and get response from it.In that project Therare option for deletd,if any one send prompt ,then it responses to the user,and save in history,same type prompt save in that privious prompt.Added Feature of dark mode. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
+      image: ecom,
+      tags: ["React JS", "Node.js", "HTML", "TAILWINDCSS", "JavaScript"],
+      github: "https://github.com/ektateli/react-ecomerse-website",
+      webapp: "https://react-ecomerse-website.vercel.app/",
+    },
+
 
 
     // {
