@@ -58,6 +58,7 @@ import bnLogo from './assets/education_logo/bn.jpg';
 // Project Section Logo's
 import bg from './assets/work_logo/bg.png';
 import ecom from './assets/work_logo/ecom.png';
+import chat from './assets/work_logo/chat.png';
 import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
@@ -245,7 +246,7 @@ export const SkillsInfo = [
       title: "React AI-Tool",
       description:
         "A powerful and user-friendly react.js project designed  to , making it a must-visit tool for developers and recruiters. Same Like Chatgpt we can give promt and get response from it.In that project Therare option for deletd,if any one send prompt ,then it responses to the user,and save in history,same type prompt save in that privious prompt.Added Feature of dark mode. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
-      image: ecom,
+      image: chat,
       tags: ["React JS", "Node.js", "HTML", "TAILWINDCSS", "JavaScript"],
       github: "https://github.com/ektateli/AI-tool-react/tree/main",
       webapp: "https://ai-tool-react-ioiv.vercel.app/",
