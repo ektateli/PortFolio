@@ -42,9 +42,10 @@ const About = () => {
           </h3>
           <p className='text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed '>
             I am a recent Graduate Student of Bsc. Computer Science, Skilled in 
-            Frontend Development, React.js, Mysql, Programming and aslo have
-            knwoledge of Backend Development and Web Development .passionate 
-            about creating innovative solutions.
+            Frontend Development, React.js also I have hands-on experience building responsive
+            and interactive web applications using HTML, CSS, JavaScript, React.js, and Node.js.
+            I’m passionate about crafting innovative digital solutions and continuously enhancing
+            my development skills.
 
           </p>
           <a
