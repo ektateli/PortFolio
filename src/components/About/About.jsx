@@ -24,10 +24,11 @@ const About = () => {
             <span className="text-[#8245ec] ">
               <Typewriter
                 words={[
+                  'Mern Stack Developer',
                   'Frontend Developer',
                   'React.js Developer',
                   'Web Developer',
-                  'Full Stack Developer',
+                  
                 ]}
                 loop={true}
                 cursor
