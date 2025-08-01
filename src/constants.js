@@ -60,6 +60,8 @@ import bnLogo from './assets/education_logo/bn.jpg';
 import bg from './assets/work_logo/bg.png';
 import ecom from './assets/work_logo/ecom.png';
 import chat from './assets/work_logo/chat.png';
+import po from './assets/work_logo/po.png';
+import wa from './assets/work_logo/wa.png';
 import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
@@ -251,6 +253,26 @@ export const SkillsInfo = [
       tags: ["React JS", "Node.js", "HTML", "TAILWINDCSS", "JavaScript"],
       github: "https://github.com/ektateli/AI-tool-react/tree/main",
       webapp: "https://ai-tool-react-ioiv.vercel.app/",
+    },
+    {
+      id: 3,
+      title: " Weather Application",
+      description:
+         "A modern and responsive weather forecasting application developed using React 19 and Tailwind CSS, with Vite as the build tool. The app fetches real-time weather data based on user input and displays details such as temperature, humidity, and wind speed. It features a clean UI and fast performance, making it ideal for both desktop and mobile users. This project serves both as a functional weather application and as part of my portfolio to demonstrate skills in frontend development, API integration, and modern tooling with Vite.",
+      image: wa,
+      tags: ["React JS", "HTML", "TAILWINDCSS", "JavaScript","Vite","OpenWeather API","REST API",],
+      github: "https://github.com/ektateli/WEATHER-APPLICATION",
+      webapp: "https://weather-application-pi-ecru.vercel.app/",
+    },
+    {
+      id: 4,
+      title: "Personal Portfolio Website",
+      description:
+         "A modern and fully responsive personal portfolio website built with React.js and Tailwind CSS. The site features smooth routing using React Router, dynamic typing effects, tilt animations, and email functionality via EmailJS. It showcases my skills, projects, resume, and certifications with a clean UI and interactive components. This project serves both as a functional personal website and as part of my portfolio to demonstrate frontend development, animation, and user experience design skills.",
+      image: po,
+      tags: ["React JS", "Node.js", "HTML", "TAILWINDCSS", "JavaScript",  "EmailJS","Animations"],
+      github: "https://github.com/ektateli/PortFolio",
+      webapp: "https://port-folio-lmhg.vercel.app/",
     },
 
 
